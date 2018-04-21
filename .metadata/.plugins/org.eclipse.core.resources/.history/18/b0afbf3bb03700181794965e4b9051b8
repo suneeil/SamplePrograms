@@ -1,0 +1,5 @@
+package com.pratice.MOCKITO;
+
+public interface ToDoService {
+
+}

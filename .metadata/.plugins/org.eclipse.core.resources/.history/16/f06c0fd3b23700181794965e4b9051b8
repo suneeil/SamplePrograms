@@ -1,0 +1,5 @@
+package com.pratice.MOCKITO.data.api;
+
+public class TodoServiceStub {
+
+}

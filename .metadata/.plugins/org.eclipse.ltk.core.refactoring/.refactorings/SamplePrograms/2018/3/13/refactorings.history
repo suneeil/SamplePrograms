@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;index&apos; in &apos;stringProg.FindOccuranceOfChar.findOccu_1(...)&apos; to &apos;charIndex&apos;&#x0D;&#x0A;- Original project: &apos;SamplePrograms&apos;&#x0D;&#x0A;- Original element: &apos;stringProg.FindOccuranceOfChar.findOccu_1(String, char).index&apos;&#x0D;&#x0A;- Renamed element: &apos;index&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;index&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;stringProg{FindOccuranceOfChar.java[FindOccuranceOfChar~findOccu_1~QString;~C@index!475!488!479!483!I!0!false" name="charIndex" references="true" stamp="1522208401571" version="1.0"/>
+</session>

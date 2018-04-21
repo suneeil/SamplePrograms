@@ -1,0 +1,17 @@
+package com.org.readingData;
+
+public class ReadTestData {
+	 Xls_Reader xls = new Xls_Reader("C:/MyWorkSpace/DesignePattern/readingData/Data.xlsx");
+     String sheetName  = "sheet";
+	  String testcaseName = "TestA";
+	  
+	  
+	  public int testStartRowNum(Xls_Reader xls, String sheetName){
+		  int testStartRowNum = 1;
+		 	
+				while(!xls.getCellData(sheetName, 0, testStartRowNum).equals(testcaseName)){
+					testStartRowNum ++;
+				}
+	  }
+	  
+}

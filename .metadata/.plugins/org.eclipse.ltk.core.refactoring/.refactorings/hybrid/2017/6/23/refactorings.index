@@ -1,0 +1,10 @@
+1496553813222	Delete element
+1496555219844	Rename method 'driverElement'
+1496566795767	Rename local variable 'Keywords'
+1496566831452	Rename local variable 'Object'
+1496567494938	Rename local variable 'keyWords'
+1496601835902	Rename field 'SUITEADATA'
+1496609123860	Rename method 'stopReporting'
+1496609182427	Rename method 'stopReport'
+1496610037263	Rename method 'executeTest'
+1496610940458	Rename method 'endTestReport'

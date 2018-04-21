@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13821" started-at="2017-05-20T16:31:10Z" finished-at="2017-05-20T16:31:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13821" started-at="2017-05-20T16:31:10Z" finished-at="2017-05-20T16:31:23Z">
+      <class name="com.org.POMPageFactory.testcases.ProfileTest">
+        <test-method status="PASS" signature="testProfile()[pri:0, instance:com.org.POMPageFactory.testcases.ProfileTest@3c5a99da]" name="testProfile" duration-ms="13808" started-at="2017-05-20T22:01:10Z" finished-at="2017-05-20T22:01:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProfile -->
+      </class> <!-- com.org.POMPageFactory.testcases.ProfileTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

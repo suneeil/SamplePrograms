@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;PropertiesReader.java&apos; to &apos;hybrid/src/main/java/com.org.hybrid.commonUtil&apos;&#x0D;&#x0A;- Original project: &apos;JustDialMobAppAutomation&apos;&#x0D;&#x0A;- Destination element: &apos;hybrid/src/main/java/com.org.hybrid.commonUtil&apos;&#x0D;&#x0A;- Original element: &apos;org.justdial.util.PropertiesReader.java&apos;" description="Copy compilation unit" destination="=hybrid/src\/main\/java&lt;com.org.hybrid.commonUtil" element1="/src\/main\/java&lt;org.justdial.util{PropertiesReader.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1496454521390" units="1" version="1.0"/>
+</session>

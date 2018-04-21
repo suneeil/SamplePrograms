@@ -1,0 +1,27 @@
+package com.pratice.MOCKITO.business;
+
+import static org.junit.Assert.*;
+import static org.mockito.Mockito.mock;
+
+import java.util.List;
+
+import org.junit.Test;
+
+import com.pratice.MOCKITO.data.api.ToDoService;
+import com.pratice.MOCKITO.data.api.TodoServiceStub;
+
+public class TodoBusinessImplMockTest {
+
+	@Test
+	public void testRetriveTodosRelatedToSpring_usingAMock(){
+		ToDoService todoServiceMock = mock(ToDoService.class);
+		
+		
+		
+		
+		TodoBusinessImpl todoBusinessImp = new TodoBusinessImpl(todoServiceMock);
+		List<String> filteredTodos =  todoBusinessImp.retriveTodosRealatedToSpring("Dummy");
+		assertEquals(2,filteredTodos.size());
+	}
+	
+}

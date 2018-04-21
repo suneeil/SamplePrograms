@@ -1,0 +1,49 @@
+package com.org.readingData;
+
+import org.testng.annotations.DataProvider;
+import org.testng.annotations.Test;
+
+public class TestData {
+
+	 Xls_Reader xls = new Xls_Reader("C:/MyWorkSpace/DesignePattern/readingData/Data.xlsx");
+	 String sheetName  = "sheet";
+	  String testcaseName = "TestA";
+		
+	@Test
+	public void testA(){
+		
+	}
+	
+	@DataProvider
+	public Object[][] getData(){
+		
+
+	       //Xls_Reader xls = new Xls_Reader("C:/MyWorkSpace/DesignePattern/readingData/Data.xlsx");
+	       	//System.out.println("Start Row: "+ testStartRowNum);
+			int colStartRowNum = getTestStartRowNum(xls,sheetName) + 1; //
+			int dataStartRowNum = getTestStartRowNum(xls,sheetName) + 2;
+			
+			/*
+			 * The below code is to get total number of Rows for a test
+			 */
+			
+			/*
+			 * The below code is to get total number of columns for a test 
+			 */
+
+			/*
+			 * Gets all the Data for test case 
+			 */
+			
+			
+			
+	    
+		
+		return null;
+	}
+	
+
+	
+	
+	
+}

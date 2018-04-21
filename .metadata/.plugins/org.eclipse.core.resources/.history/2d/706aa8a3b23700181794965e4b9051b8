@@ -1,0 +1,13 @@
+package com.pratice.MOCKITO.business;
+
+import com.pratice.MOCKITO.data.api.ToDoService;
+
+public class TodoBusinessImpl {
+
+	private ToDoService todoService;
+
+	public TodoBusinessImpl(ToDoService todoService) {
+		this.todoService = todoService;
+	}
+
+}
