@@ -1,0 +1,10 @@
+package ArrayPrograms;
+
+public class InsertArray {
+
+	public static void main(String[] args) {
+		Integer[] arr = {1,2,4,5};
+
+	}
+
+}

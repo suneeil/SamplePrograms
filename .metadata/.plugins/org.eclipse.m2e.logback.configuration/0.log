@@ -15379,3 +15379,5 @@ java.lang.NullPointerException: null
 2018-04-21 06:48:26,924 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
 2018-04-21 06:48:27,370 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-04-21 06:48:27,406 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-21 06:48:27,444 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-21 06:48:27,450 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\prallelExtentReporting\src\test\resources
