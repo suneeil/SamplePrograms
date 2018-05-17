@@ -1,0 +1,11 @@
+package com.org.POMPageFactory.util;
+
+public class AppConstants {
+	//paths
+	public static final String CHROME_DRIVER_EXE = "C:\\Chromedriver.exe";
+	public static final String FIREFOX_DRIVER_EXE = "C:/MyWorkSpace/DesignePattern/POMPageFactory/Drivers/geckodriver.exe";
+	public static final String USERNAME = "//*[@id='email']";
+	public static final String PWD = "//*[@id='pass']";
+	
+	//locators
+}

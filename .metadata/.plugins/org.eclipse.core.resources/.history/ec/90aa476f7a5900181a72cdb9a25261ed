@@ -1,0 +1,37 @@
+package com.org.POMPageFactory.base;
+
+import org.openqa.selenium.WebDriver;
+
+import com.org.POMPageFactory.pages.common.TopMenu;
+
+public class BasePage {
+
+	public WebDriver driver;
+	public TopMenu menu; //Since every page has a Top Menu we are creating in all the pages
+	
+	
+	public BasePage(){
+		//Default Constructors
+	}
+	
+	public BasePage(WebDriver driver){
+		this.driver = driver; //Initialization of the Driver Done Here 
+		//Which is a centralized location in the framework
+	}
+	
+	
+	public boolean verifyTitle(String expected){
+		return true;
+	}
+	
+	public boolean verifyText(String locator, String expectedText){
+		System.out.println("Verify The TEXT");
+		return true;
+	}
+	
+	public boolean isElementPresent(String locator){
+		System.out.println("Is Element Present");
+		return true;
+	}
+	
+}

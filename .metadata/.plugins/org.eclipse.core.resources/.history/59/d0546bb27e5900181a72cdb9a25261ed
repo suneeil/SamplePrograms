@@ -1,0 +1,11 @@
+package com.org.POMPageFactory.testcases.base;
+
+public class BaseTest {
+
+	public void init(String browserType){
+		if ("Mozilla".equals(browserType)) {
+			
+		}
+	}
+	
+}

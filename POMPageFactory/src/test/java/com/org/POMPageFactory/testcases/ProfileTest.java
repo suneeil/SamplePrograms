@@ -5,23 +5,26 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
-import com.org.POMPageFactory.base.BasePage;
 import com.org.POMPageFactory.pages.LaunchPage;
 import com.org.POMPageFactory.pages.LoginPage;
 import com.org.POMPageFactory.session.LandingPage;
+import com.org.POMPageFactory.testcases.base.BaseTest;
 
 
-public class ProfileTest extends BasePage{
+public class ProfileTest extends BaseTest{
 
 	@Test
 	public void testProfile() throws InterruptedException{
-		System.setProperty("webdriver.gecko.driver","C:/MyWorkSpace/DesignePattern/POMPageFactory/Drivers/geckodriver.exe");
-		WebDriver driver = new FirefoxDriver();
+		System.out.println("Started");
+		init("Mozilla");
+		
+		System.out.println("Created Driver");
 		LaunchPage launchPage = PageFactory.initElements(driver, LaunchPage.class);
+		System.out.println("Launch Page called");
 		LoginPage loginPage = launchPage.gotoLoginPage();
+		
 		loginPage.verifyTitle("Title");
-		Object page = loginPage.doLogin("suneeil@ymail.com", "ka04em1689SAI@RAM");
+		Object page = loginPage.doLogin("suneeil@ymail.com", "SaiRAM@1");
 		Thread.sleep(5000);
 		
 			
@@ -35,6 +38,14 @@ public class ProfileTest extends BasePage{
 		LandingPage landingPage = (LandingPage) page;
 		landingPage.verifyTitle("Title");
 		((LandingPage) landingPage).gotoProfilePage();
+		
+		/*ProfilePage profPage = landingPage.gotoProfilePage();
+		profPage.verifyProfile();
+		profPage.verifyTitle("");*/
+		
+		/*To Access the TopMenu and logout use the below line
+		 * landingPage.getMenu().logout();
+		 * */
 	}
 		
 }

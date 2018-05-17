@@ -1,0 +1,15 @@
+package com.org.POMPageFactory.session;
+
+import org.openqa.selenium.WebDriver;
+
+public class ProfilePage {
+	WebDriver driver;
+	
+	public ProfilePage(){
+		this.driver = driver;
+	}
+	
+	public void verifyProfile(){
+		System.out.println("Verifying the profile");
+	}
+}

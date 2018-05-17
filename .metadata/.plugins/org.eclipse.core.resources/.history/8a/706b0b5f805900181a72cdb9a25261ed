@@ -1,0 +1,6 @@
+package com.org.POMPageFactory.util;
+
+public class AppConstants {
+	public static final String CHROME_DRIVER_EXE = "C:\\Chromedriver.exe";
+	
+}

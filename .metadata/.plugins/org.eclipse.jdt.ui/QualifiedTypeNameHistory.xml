@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.relevantcodes.extentreports.ExtentReports"/>
-<fullyQualifiedTypeName name="com.org.parallel.ExtentManager"/>
-<fullyQualifiedTypeName name="com.relevantcodes.extentreports.LogStatus"/>
-<fullyQualifiedTypeName name="org.testng.Assert"/>
 <fullyQualifiedTypeName name="org.apache.log4j.Logger"/>
 <fullyQualifiedTypeName name="java.util.stream.Collector"/>
 <fullyQualifiedTypeName name="com.pratice.java8Examples.Employee"/>
@@ -52,12 +48,16 @@
 <fullyQualifiedTypeName name="org.codehaus.groovy.runtime.InvokerHelper"/>
 <fullyQualifiedTypeName name="ScriptClassEx"/>
 <fullyQualifiedTypeName name="groovyjarjarantlr.MakeGrammar"/>
-<fullyQualifiedTypeName name="java.util.Arrays"/>
 <fullyQualifiedTypeName name="com.pratice.MOCKITO.business.TodoBusinessImpl"/>
 <fullyQualifiedTypeName name="com.pratice.MOCKITO.data.api.TodoServiceStub"/>
 <fullyQualifiedTypeName name="org.junit.Test"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="org.junit.Assert"/>
 <fullyQualifiedTypeName name="com.pratice.MOCKITO.data.api.ToDoService"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="oopsBasics.ex1.Car"/>
+<fullyQualifiedTypeName name="oopsBasics.ex1.AudiCar"/>
+<fullyQualifiedTypeName name="oopsBasics.ex1.Engine"/>
 </qualifiedTypeNameHistroy>

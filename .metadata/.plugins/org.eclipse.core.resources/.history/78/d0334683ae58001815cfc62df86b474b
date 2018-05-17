@@ -1,0 +1,8 @@
+package oopsBasics.ex1;
+
+public class Engine {
+	
+	public void startup(){
+		System.out.println("Engine starting");
+	}
+}

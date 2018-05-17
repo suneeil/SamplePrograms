@@ -1,0 +1,20 @@
+package com.org.POMPageFactory.testcases.base;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class BaseTest {
+	public WebDriver driver;
+	public void init(String browserType){
+		if ("Mozilla".equals(browserType)) {
+			System.setProperty("webdriver.gecko.driver","C:/MyWorkSpace/DesignePattern/POMPageFactory/Drivers/geckodriver.exe");
+			WebDriver driver = new FirefoxDriver();
+		}else if("Chrome".equals(browserType)){
+			System.setProperty("webdriver.chrome.driver", "C:\\chromedriver.exe");
+			driver = new ChromeDriver();
+		}
+		driver.manage().window().maximize();
+	}
+	
+}

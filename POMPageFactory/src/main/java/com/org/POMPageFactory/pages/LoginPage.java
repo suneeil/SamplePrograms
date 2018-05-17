@@ -9,19 +9,20 @@ import org.openqa.selenium.support.PageFactory;
 
 import com.org.POMPageFactory.base.BasePage;
 import com.org.POMPageFactory.session.LandingPage;
+import com.org.POMPageFactory.util.AppConstants;
 
 public class LoginPage extends BasePage{
 
 	
 	
-	@FindBy(xpath="//*[@id='email']")
+	@FindBy(xpath=AppConstants.USERNAME)
 	public WebElement email;
-	@FindBy(xpath="//*[@id='pass']")
+	@FindBy(xpath=AppConstants.PWD)
 	public WebElement password;
 	
 	
 	public LoginPage(WebDriver driver){
-		this.driver = driver;
+		super(driver); //Now all the initilization of the driver will be done in the BasePage constructor
 	}
 	
 	public Object doLogin(String user, String pwd){
