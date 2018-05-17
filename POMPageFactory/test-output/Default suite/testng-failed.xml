@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.org.POMPageFactory.testcases.ProfileTest">
+      <class name="com.org.POMPageFactory.testcases.LoginTest">
         <methods>
-          <include name="testProfile"/>
+          <include name="loginTest"/>
         </methods>
-      </class> <!-- com.org.POMPageFactory.testcases.ProfileTest -->
+      </class> <!-- com.org.POMPageFactory.testcases.LoginTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
