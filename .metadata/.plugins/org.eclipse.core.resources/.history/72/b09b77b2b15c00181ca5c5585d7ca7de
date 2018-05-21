@@ -1,0 +1,12 @@
+package walmart.jsonPath.examples;
+
+import org.testng.annotations.BeforeClass;
+import static io.restassured.RestAssured.given;
+public class WalmartSearch_JSONPath {
+	static final String APIKEY = "6amstmtpeqw4yrbh4j6zrf26";
+	
+	@BeforeClass
+	public static void init(){
+		
+	}
+}

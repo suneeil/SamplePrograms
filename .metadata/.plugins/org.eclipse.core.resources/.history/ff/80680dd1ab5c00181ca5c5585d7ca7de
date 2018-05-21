@@ -1,0 +1,31 @@
+package tutorial.studentsApp.loggingEx;
+
+import static io.restassured.RestAssured.given;
+import io.restassured.http.ContentType;
+
+import java.util.ArrayList;
+
+import org.testng.annotations.Test;
+
+import tutorial.studentsApp.CreateStudent.pojoClasses.StudentPOJO;
+import tutorial.studentsApp.base.TestBase;
+
+public class LoggingRESPONSEValues extends TestBase{
+	
+	/**
+	 * Print all the request parameters
+	 */
+	//@Test
+	public void printRequestParam(){
+		System.out.println("----------------- Print Request Parameters -----------------------");
+		given()
+			.param("programme", "Computer Science")
+			.param("limit", 1)
+			.log().params() 
+		.when()
+			.get("/list")
+		.then()
+			.statusCode(200);
+		
+	}
+}

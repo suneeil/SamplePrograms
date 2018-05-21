@@ -1,0 +1,19 @@
+package tutorial.studentsApp.loggingEx;
+
+import static io.restassured.RestAssured.given;
+import org.testng.annotations.Test;
+import tutorial.studentsApp.base.TestBase;
+
+public class LoggingResultValues extends TestBase{
+	@Test
+	public void printHeadersTest(){
+		given()
+			.log()
+			.all()
+		.when()
+			.get("/1")
+		.then()
+			.statusCode(200);
+		
+	}
+}

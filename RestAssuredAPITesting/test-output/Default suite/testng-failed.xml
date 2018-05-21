@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="tutorial.studentsApp.CreateStudent.StudentPostTest">
+      <class name="tutorial.studentsApp.loggingEx.LoggingRESPONSEValues">
         <methods>
+          <include name="printResponseOnFailure"/>
           <include name="init"/>
-          <include name="createNewStudent"/>
         </methods>
-      </class> <!-- tutorial.studentsApp.CreateStudent.StudentPostTest -->
+      </class> <!-- tutorial.studentsApp.loggingEx.LoggingRESPONSEValues -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
