@@ -1,0 +1,44 @@
+package tutorial.studentsApp;
+
+import static org.hamcrest.Matchers.*; //For validating the response
+import static io.restassured.RestAssured.*;
+import io.restassured.RestAssured;
+import io.restassured.response.Response;
+
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
+public class StudentGetTest {
+
+	@BeforeClass
+	public static void init(){
+		RestAssured.baseURI="http://localhost";
+		RestAssured.port = 8080;
+		RestAssured.basePath = "/student";
+	}
+
+	//@Test
+	public void getAllStudentInformation(){
+		Response response = given()
+				.when()
+				.get("/list");
+		System.out.println(response.body().prettyPrint());
+		//Validate the status code
+		given()
+		.when()
+		.get("/list")
+		.then()
+		.statusCode(200);
+		
+	}
+
+	//@Test
+	public void retriveSingleStudentInfo(){
+		Response response = given()
+				.when()
+				.get("/1");
+		System.out.println(response.body().prettyPrint());
+		
+	}
+	
+	
+}

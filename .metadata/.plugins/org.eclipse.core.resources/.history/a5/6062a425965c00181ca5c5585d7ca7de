@@ -1,0 +1,9 @@
+package tutorial.studentsApp;
+
+import static org.hamcrest.Matchers.*; //For validating the response
+import static io.restassured.RestAssured.*;
+public class StudentGetTest {
+
+	
+	
+}

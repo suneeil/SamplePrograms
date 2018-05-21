@@ -1,0 +1,15 @@
+package tutorial.studentsApp.CreateStudent;
+import static org.hamcrest.Matchers.*; //For validating the response
+import static io.restassured.RestAssured.*;  //For calling the given() directly
+
+import java.util.ArrayList;
+
+import io.restassured.RestAssured; //Import For baseURI,PORT,basePath
+import io.restassured.http.ContentType;
+import io.restassured.response.Response; //To handle Response
+
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
+public class StudentPUTTest {
+
+}

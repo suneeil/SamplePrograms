@@ -15876,3 +15876,517 @@ java.lang.NullPointerException: null
 2018-05-17 09:39:06,061 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-05-17 09:39:06,061 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\POMPageFactory\src\main\resources
 2018-05-17 09:39:06,062 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 09:39:06,062 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\POMPageFactory\src\test\resources
+2018-05-20 12:53:43,114 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-05-20 12:54:29,388 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-20 12:54:29,422 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\JustDialMobAppAutomation\src\main\resources
+2018-05-20 12:54:29,424 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-20 12:54:29,549 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-05-21 06:44:42,251 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 06:44:42,314 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 06:44:42,317 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 06:44:42,318 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 06:44:58,631 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 06:44:58,632 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 06:44:58,634 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 06:44:58,635 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 06:45:06,093 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 06:45:06,093 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 06:45:06,095 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 06:45:06,095 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 06:45:22,649 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 06:45:22,650 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 06:45:22,652 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 06:45:22,653 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 06:46:02,849 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 06:46:02,850 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 06:46:02,851 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 06:46:02,851 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 06:46:18,105 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 06:46:18,106 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 06:46:18,107 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 06:46:18,107 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 06:49:28,113 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 06:49:28,115 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 06:49:28,118 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 06:49:28,118 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 06:51:12,062 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 06:51:12,062 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 06:51:12,072 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 06:51:12,073 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 06:51:18,006 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 06:51:18,007 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 06:51:18,010 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 06:51:18,011 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 06:56:12,887 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2018-05-21 06:56:12,948 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@127.0.0.1:49844
+2018-05-21 06:57:10,532 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 06:57:10,532 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 06:57:10,534 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 06:57:10,534 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 06:57:38,330 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 06:57:38,330 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 06:57:38,332 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 06:57:38,332 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:03:50,403 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:03:50,404 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:03:50,406 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:03:50,406 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:04:54,230 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:04:54,230 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:04:54,231 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:04:54,231 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:05:15,031 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:05:15,031 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:05:15,033 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:05:15,034 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:05:46,513 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:05:46,514 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:05:46,516 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:05:46,517 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:07:11,423 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:07:11,424 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:07:11,427 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:07:11,427 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:07:29,879 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:07:29,879 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:07:29,881 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:07:29,881 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:07:40,106 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:07:40,106 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:07:40,107 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:07:40,108 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:08:47,491 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:08:47,492 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:08:47,493 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:08:47,493 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:09:15,404 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:09:15,404 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:09:15,405 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:09:15,405 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:09:30,065 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:09:30,066 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:09:30,066 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:09:30,067 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:11:56,685 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:11:56,686 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:11:56,687 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:11:56,688 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:12:04,460 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:12:04,461 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:12:04,463 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:12:04,463 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:12:36,975 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:12:36,975 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:12:36,976 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:12:36,977 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:13:54,176 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:13:54,177 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:13:54,178 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:13:54,179 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:14:39,944 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:14:39,945 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:14:39,946 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:14:39,946 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:15:47,448 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:15:47,449 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:15:47,451 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:15:47,451 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:16:13,003 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:16:13,004 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:16:13,004 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:16:13,005 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:16:29,317 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:16:29,318 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:16:29,319 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:16:29,320 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:17:04,495 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:17:04,495 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:17:04,497 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:17:04,497 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:17:21,509 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:17:21,510 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:17:21,511 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:17:21,512 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:18:24,229 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:18:24,230 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:18:24,231 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:18:24,231 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:19:19,974 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:19:19,974 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:19:19,975 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:19:19,976 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:19:24,947 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:19:24,947 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:19:24,948 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:19:24,949 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:20:01,514 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:20:01,515 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:20:01,516 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:20:01,516 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:20:29,929 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:20:29,930 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:20:29,931 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:20:29,931 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:20:37,818 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:20:37,819 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:20:37,820 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:20:37,820 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:20:52,112 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:20:52,112 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:20:52,113 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:20:52,113 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:21:04,646 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:21:04,647 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:21:04,648 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:21:04,648 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:21:24,373 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:21:24,373 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:21:24,375 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:21:24,375 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:21:46,276 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:21:46,277 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:21:46,278 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:21:46,278 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:22:21,559 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:22:21,559 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:22:21,561 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:22:21,561 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:23:32,550 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:23:32,551 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:23:32,551 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:23:32,552 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:23:44,582 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:23:44,583 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:23:44,584 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:23:44,584 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:26:02,960 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:26:02,961 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:26:02,962 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:26:02,963 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:26:07,737 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:26:07,738 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:26:07,739 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:26:07,740 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:26:42,780 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:26:42,781 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:26:42,782 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:26:42,783 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:26:52,449 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:26:52,450 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:26:52,451 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:26:52,451 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:29:01,788 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:29:01,788 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:29:01,789 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:29:01,789 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:29:53,483 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:29:53,483 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:29:53,484 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:29:53,484 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:30:08,901 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:30:08,902 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:30:08,903 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:30:08,904 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:31:23,191 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:31:23,192 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:31:23,193 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:31:23,194 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:32:02,075 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:32:02,075 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:32:02,076 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:32:02,077 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:32:29,683 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:32:29,683 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:32:29,684 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:32:29,685 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:32:54,023 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:32:54,023 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:32:54,024 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:32:54,025 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:33:05,248 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:33:05,249 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:33:05,250 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:33:05,250 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:33:14,239 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:33:14,240 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:33:14,241 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:33:14,242 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:33:21,151 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:33:21,151 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:33:21,153 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:33:21,153 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:33:51,166 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:33:51,167 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:33:51,168 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:33:51,168 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:34:13,847 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:34:13,847 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:34:13,848 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:34:13,848 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:34:21,222 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:34:21,222 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:34:21,223 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:34:21,224 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:45:22,718 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:45:22,718 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:45:22,718 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:45:22,718 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:45:27,442 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:45:27,442 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:45:27,442 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:45:27,442 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:45:42,959 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:45:42,959 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:45:42,959 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:45:42,959 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:46:18,779 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:46:18,780 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:46:18,781 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:46:18,782 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:47:45,375 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:47:45,375 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:47:45,377 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:47:45,377 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:48:36,459 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:48:36,459 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:48:36,460 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:48:36,461 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:49:53,926 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:49:53,927 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:49:53,927 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:49:53,928 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:50:16,411 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:50:16,411 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:50:16,412 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:50:16,413 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:50:30,761 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:50:30,761 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:50:30,761 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:50:30,761 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:51:09,178 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:51:09,179 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:51:09,180 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:51:09,181 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:51:36,333 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:51:36,334 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:51:36,335 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:51:36,335 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:51:46,215 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:51:46,216 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:51:46,217 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:51:46,217 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:51:55,087 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:51:55,087 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:51:55,088 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:51:55,088 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:53:49,200 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:53:49,200 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:53:49,201 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:53:49,201 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:54:11,968 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:54:11,968 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:54:11,969 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:54:11,969 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:54:20,660 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:54:20,661 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:54:20,662 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:54:20,662 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:55:21,237 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:55:21,237 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:55:21,237 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:55:21,237 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:55:40,651 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:55:40,652 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:55:40,653 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:55:40,653 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:56:42,721 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:56:42,721 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:56:42,721 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:56:42,721 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:57:19,292 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:57:19,292 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:57:19,292 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:57:19,292 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 07:57:40,234 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:57:40,234 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 07:57:40,235 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 07:57:40,236 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:06:51,740 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:06:51,741 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:06:51,742 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:06:51,742 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:07:29,801 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:07:29,802 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:07:29,802 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:07:29,803 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:07:48,014 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:07:48,015 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:07:48,016 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:07:48,016 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:07:51,819 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:07:51,819 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:07:51,820 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:07:51,820 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:09:08,083 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:09:08,083 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:09:08,085 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:09:08,085 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:10:46,988 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:10:46,988 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:10:46,989 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:10:46,989 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:11:04,039 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:11:04,040 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:11:04,040 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:11:04,041 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:11:18,138 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:11:18,138 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:11:18,139 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:11:18,140 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:11:33,269 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:11:33,270 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:11:33,271 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:11:33,271 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:13:48,223 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:13:48,223 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:13:48,223 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:13:48,223 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:13:58,623 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:13:58,624 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:13:58,625 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:13:58,626 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:14:05,184 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:14:05,184 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:14:05,185 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:14:05,186 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:14:10,434 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:14:10,434 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:14:10,434 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:14:10,434 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:14:21,730 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:14:21,730 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:14:21,746 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:14:21,746 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:14:43,814 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:14:43,814 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:14:43,815 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:14:43,815 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:17:28,857 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:17:28,858 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:17:28,860 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:17:28,860 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:17:48,022 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:17:48,023 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:17:48,024 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:17:48,024 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:17:56,252 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:17:56,252 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:17:56,253 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:17:56,253 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:18:30,184 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:18:30,184 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:18:30,185 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:18:30,185 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:18:53,134 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:18:53,135 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:18:53,135 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:18:53,135 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:20:06,833 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:20:06,833 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:20:06,833 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:20:06,833 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:20:32,245 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:20:32,245 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:20:32,245 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:20:32,245 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:20:37,192 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:20:37,193 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:20:37,194 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:20:37,194 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:21:23,685 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:21:23,686 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:21:23,692 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:21:23,693 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:21:34,112 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:21:34,112 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:21:34,113 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:21:34,113 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:21:42,316 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:21:42,316 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:21:42,317 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:21:42,317 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:22:24,672 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:22:24,672 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:22:24,673 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:22:24,673 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:22:37,212 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:22:37,213 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:22:37,214 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:22:37,214 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:24:56,068 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:24:56,069 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:24:56,070 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:24:56,071 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:25:12,360 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:25:12,360 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:25:12,362 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:25:12,362 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:25:37,928 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:25:37,928 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:25:37,929 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:25:37,929 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:26:06,071 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:26:06,071 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:26:06,072 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:26:06,072 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:26:24,406 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:26:24,406 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:26:24,406 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:26:24,407 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:26:31,541 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:26:31,542 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:26:31,543 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:26:31,543 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:26:39,317 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:26:39,318 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:26:39,319 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:26:39,319 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:26:45,672 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:26:45,672 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:26:45,673 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:26:45,673 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:26:58,443 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:26:58,443 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:26:58,444 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:26:58,444 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:27:05,725 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:27:05,725 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:27:05,726 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:27:05,726 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:27:13,375 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:27:13,376 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:27:13,377 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:27:13,377 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:32:37,866 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:32:37,866 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:32:37,882 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:32:37,882 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:32:45,390 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:32:45,390 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:32:45,406 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:32:45,406 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:33:23,395 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:33:23,395 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:33:23,395 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:33:23,395 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:36:30,439 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:36:30,439 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:36:30,439 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:36:30,439 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:39:45,579 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:39:45,580 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources
+2018-05-21 08:39:45,580 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:39:45,581 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\test\resources
+2018-05-21 08:40:19,307 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-21 08:40:19,308 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyWorkSpace\DesignePattern\RestAssuredAPITesting\src\main\resources

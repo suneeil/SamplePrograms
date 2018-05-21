@@ -1,0 +1,67 @@
+package tutorial.studentsApp;
+
+import static org.hamcrest.Matchers.*; //For validating the response
+import static io.restassured.RestAssured.*;
+import io.restassured.RestAssured;
+import io.restassured.response.Response;
+
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
+public class StudentGetTest {
+
+	@BeforeClass
+	public static void init(){
+		RestAssured.baseURI="http://localhost";
+		RestAssured.port = 8080;
+		RestAssured.basePath = "/student";
+	}
+
+	//@Test
+	public void getAllStudentInformation(){
+		Response response = given()
+				.when()
+				.get("/list");
+		
+		//Can use this to print the Response
+				response.body().prettyPrint();
+				//Or if you are using SYSO then 
+				System.out.println("------------------------------------");
+				System.out.println(response.asString());
+		//Validate the status code
+		given()
+		.when()
+		.get("/list")
+		.then()
+		.statusCode(200);
+		
+		
+	}
+
+	//@Test
+	public void retriveSingleStudentInfo(){
+		Response response = given()
+				.when()
+				.get("/1");
+		//Can use this to print the Response
+		response.body().prettyPrint();
+		//Or if you are using SYSO then 
+		System.out.println("------------------------------------");
+		System.out.println(response.asString());
+	}
+	//Get students who has enrolled in financial domain
+	@Test
+	public void GetFinancialStudents(){
+		Response response = given()
+				.when()
+				.get("/list?programme=Financial Analysis&limit=2");
+		//Can use this to print the Response
+		response.body().prettyPrint();
+		//Or if you are using SYSO then 
+		System.out.println("-------------- response.asString() ----------------------");
+		System.out.println(response.asString());
+		System.out.println("---------------- response.body().asString() --------------------");
+		System.out.println(response.body().asString());
+		System.out.println("---------------- response.prettyPeek() --------------------");
+		System.out.println(response.prettyPeek());
+	}
+}
