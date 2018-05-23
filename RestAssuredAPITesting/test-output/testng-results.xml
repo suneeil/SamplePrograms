@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="7026" started-at="2018-05-21T04:52:37Z" finished-at="2018-05-21T04:52:44Z">
+  <suite name="Default suite" duration-ms="4360" started-at="2018-05-23T03:54:55Z" finished-at="2018-05-23T03:55:00Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="7026" started-at="2018-05-21T04:52:37Z" finished-at="2018-05-21T04:52:44Z">
+    <test name="Default test" duration-ms="4360" started-at="2018-05-23T03:54:55Z" finished-at="2018-05-23T03:55:00Z">
       <class name="walmart.jsonPath.examples.WalmartSearch_JSONPath">
-        <test-method status="PASS" signature="init()[pri:0, instance:walmart.jsonPath.examples.WalmartSearch_JSONPath@34340fab]" name="init" is-config="true" duration-ms="797" started-at="2018-05-21T10:22:37Z" finished-at="2018-05-21T10:22:38Z">
+        <test-method status="PASS" signature="init()[pri:0, instance:walmart.jsonPath.examples.WalmartSearch_JSONPath@2b80d80f]" name="init" is-config="true" duration-ms="575" started-at="2018-05-23T09:24:55Z" finished-at="2018-05-23T09:24:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="test001()[pri:0, instance:walmart.jsonPath.examples.WalmartSearch_JSONPath@34340fab]" name="test001" duration-ms="4579" started-at="2018-05-21T10:22:38Z" finished-at="2018-05-21T10:22:43Z">
+        <test-method status="PASS" signature="test0012()[pri:0, instance:walmart.jsonPath.examples.WalmartSearch_JSONPath@2b80d80f]" name="test0012" duration-ms="3753" started-at="2018-05-23T09:24:56Z" finished-at="2018-05-23T09:25:00Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test001 -->
-        <test-method status="PASS" signature="test002()[pri:0, instance:walmart.jsonPath.examples.WalmartSearch_JSONPath@34340fab]" name="test002" duration-ms="1621" started-at="2018-05-21T10:22:43Z" finished-at="2018-05-21T10:22:44Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test002 -->
+        </test-method> <!-- test0012 -->
       </class> <!-- walmart.jsonPath.examples.WalmartSearch_JSONPath -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->

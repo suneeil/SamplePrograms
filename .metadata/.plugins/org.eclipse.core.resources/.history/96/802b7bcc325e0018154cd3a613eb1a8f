@@ -1,0 +1,149 @@
+package walmart.jsonPath.examples;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+
+import io.restassured.RestAssured;
+
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
+
+import static io.restassured.RestAssured.given;
+public class WalmartSearch_JSONPath {
+	static final String APIKEY = "6amstmtpeqw4yrbh4j6zrf26";
+
+	@BeforeClass
+	public static void init(){
+		RestAssured.baseURI = "http://api.walmartlabs.com";
+		RestAssured.basePath = "/v1";
+	}
+
+	//Extract numItems
+	//@Test
+	public void test001(){
+		int numItems =	given()
+				.queryParam("query", "ipod")
+				.queryParam("apiKey", APIKEY)
+				.queryParam("format", "json")
+				.when()
+				.get("/search")
+				.then()
+				.extract()
+				.path("numItems");
+
+		System.out.println("-----------------------------------------------");
+		System.out.println("The total number of Items are: "+ numItems);
+		System.out.println("-----------------------------------------------");
+	}
+	//Extract Query
+	//@Test
+	public void test002(){
+		String queryVal=	given()
+				.queryParam("query", "ipod")
+				.queryParam("apiKey", APIKEY)
+				.queryParam("format", "json")
+				.when()
+				.get("/search")
+				.then()
+				.extract()
+				.path("query");
+
+		System.out.println("-----------------------------------------------");
+		System.out.println("The Search Query is: "+ queryVal);
+		System.out.println("-----------------------------------------------");
+	}
+
+	//Extract First item in the Array
+	//@Test
+	public void test003(){
+		String productName =	given()
+				.queryParam("query", "ipod")
+				.queryParam("apiKey", APIKEY)
+				.queryParam("format", "json")
+				.when()
+				.get("/search")
+				.then()
+				.extract()
+				.path("items[0].name");
+
+		System.out.println("-----------------------------------------------");
+		System.out.println("The 1st Product in the Array is: " + productName);
+		System.out.println("-----------------------------------------------");
+	}
+
+	//Extract HashMap(i.e. JSON Object) in a Array
+	//@Test
+	public void test004(){
+		HashMap<String, Boolean> giftOptions =
+				given()
+				.queryParam("query", "ipod")
+				.queryParam("apiKey", APIKEY)
+				.queryParam("format", "json")
+				.when()
+				.get("/search")
+				.then()
+				.extract()
+				.path("items[0].giftOptions");
+
+		System.out.println("-----------------------------------------------");
+		System.out.println("Gift Option which is a HashMap in the Array: " + giftOptions);
+		System.out.println("-----------------------------------------------");
+	}
+
+	//Size of Array List
+	//@Test
+	public void test005(){
+		int size =
+				given()
+				.queryParam("query", "ipod")
+				.queryParam("apiKey", APIKEY)
+				.queryParam("format", "json")
+				.when()
+				.get("/search")
+				.then()
+				.extract()
+				.path("items.size()");
+
+		System.out.println("-----------------------------------------------");
+		System.out.println("Size of the Array list: " + size);
+		System.out.println("-----------------------------------------------");
+	}
+
+	//Extract all the "names" in the "Items" Array List
+	//@Test
+	public void test006(){
+		ArrayList<String> allNames =
+				given()
+				.queryParam("query", "ipod")
+				.queryParam("apiKey", APIKEY)
+				.queryParam("format", "json")
+				.when()
+				.get("/search")
+				.then()
+				.extract()
+				.path("items.name");
+
+		System.out.println("-----------------------------------------------");
+		System.out.println("Size of the Array list: "+ allNames);
+		System.out.println("-----------------------------------------------");
+	}
+	
+	//Extract all the "names" that has Apple iPod touch 128GB
+		@Test
+		public void test007(){
+			ArrayList<HashMap<String, String>> allItems =
+					given()
+					.queryParam("query", "ipod")
+					.queryParam("apiKey", APIKEY)
+					.queryParam("format", "json")
+					.when()
+					.get("/search")
+					.then()
+					.extract()
+					.path("items.findAll{it.name=='Apple iPod touch 128GB'}");
+
+			System.out.println("-----------------------------------------------");
+			System.out.println("Size of the Array list: "+ allItems);
+			System.out.println("-----------------------------------------------");
+		}
+}
