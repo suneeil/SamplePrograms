@@ -1,0 +1,44 @@
+package tutorial.requestSpecifications;
+
+import static io.restassured.RestAssured.given;
+import static org.hamcrest.Matchers.equalTo;
+import io.restassured.RestAssured;
+import io.restassured.builder.RequestSpecBuilder;
+import io.restassured.specification.RequestSpecification;
+
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
+
+public class RequestSpecificationExamples {
+
+	//Using Request Specification we can minimize repetitive code 
+	//The RequestSpecBuolder provides differnt methods to build our initial Request
+	//Like "Add Query parameters", "Add Content Type"
+	static final String APIKEY = "6amstmtpeqw4yrbh4j6zrf26";
+	static RequestSpecBuilder requestBuilder;
+	static RequestSpecification requestSpecificatoion;
+
+	@BeforeClass
+	public static void init(){
+		RestAssured.baseURI = "http://api.walmartlabs.com";
+		RestAssured.basePath = "/v1";
+		//RestAssured.rootPath = "items[1].giftOptions"; //<--------PROVIDING THE ROOT PATH FOR ALL TESTS
+	}
+
+	@Test
+	public void test001(){
+
+		given()
+		.queryParam("query", "ipod")
+		.queryParam("apiKey", APIKEY)
+		.queryParam("format", "json")
+		.queryParam("facet","on")
+		.headers("Accept", "*/*")
+		.when()
+		.get("/search")
+		.then()			
+		
+		.statusCode(200);
+
+	}
+}

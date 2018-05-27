@@ -1,0 +1,21 @@
+package tutorial.compareJSONs;
+
+import org.json.JSONException;
+import org.skyscreamer.jsonassert.JSONAssert;
+import org.testng.annotations.Test;
+
+public class CompareJSONTest {
+
+	@Test
+	public void test001(){
+		try{
+			String expected = "{id:1,name:\"Joe\",friends:[{id:2,name:\"Pat\",pets:[\"dog\"]},{id:3,name:\"Sue\",pets:[\"bird\",\"fish\"]}],pets:[]}";
+			String actual   = "{id:1,name:\"Joe\",friends:[{id:2,name:\"Pat\",pets:[\"dog\"]},{id:3,name:\"Sue\",pets:[\"lion\",\"bird\"]}],pets:[]}";
+			JSONAssert.assertEquals(expected, actual, false);
+		}catch(JSONException e){
+			System.out.println(e.getMessage());
+		}
+	}
+
+
+}

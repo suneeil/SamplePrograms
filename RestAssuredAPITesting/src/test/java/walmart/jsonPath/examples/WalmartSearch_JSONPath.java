@@ -1,14 +1,23 @@
 package walmart.jsonPath.examples;
 
+import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 
 import io.restassured.RestAssured;
+import io.restassured.internal.ValidatableResponseImpl;
+import io.restassured.path.json.JsonPath;
+import io.restassured.response.Response;
 
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
+import static io.restassured.path.json.JsonPath.*;
 import static io.restassured.RestAssured.given;
+import static org.hamcrest.Matchers.equalTo;
+
+
 public class WalmartSearch_JSONPath {
 	static final String APIKEY = "6amstmtpeqw4yrbh4j6zrf26";
 
@@ -216,28 +225,74 @@ public class WalmartSearch_JSONPath {
 				.then()
 				.extract()
 				.path("items.findAll{it.name==~/Ref.*/}.msrp");
-				
+
 		System.out.println("-----------------------------------------------");
 		System.out.println("msrp values of items whose name starts with Ref:\n "+ msrp);
 		System.out.println("-----------------------------------------------");
 	}
-	
+
 	//Extract salePrice of items whose name ENDS WITH ed
+	//	@Test
+	public void test0012(){	
+		ArrayList<String> salePrice =
+				given()
+				.queryParam("query", "ipod")
+				.queryParam("apiKey", APIKEY)
+				.queryParam("format", "json")
+				.when()
+				.get("/search")
+				.then()
+				.extract()
+				.path("items.findAll{it.name==~/.*ed/}.salePrice");
+
+		System.out.println("-----------------------------------------------");
+		System.out.println("salePrice values of items whose name ends with ed:\n "+ salePrice);
+		System.out.println("-----------------------------------------------");
+	}
+
+
+	//Using "with" you can extract the data as List,Map,Boolean,.....
+	//Example to print the names of all the products as a list
+	//@Test
+	public void test0013(){	
+
+		String json =	given()
+				.queryParam("query", "ipod")
+				.queryParam("apiKey", APIKEY)
+				.queryParam("format", "json")
+				.when()
+				.get("/search")
+				.asString();
+		//We need static import of the with method import static io.restassured.path.json.JsonPath.*;
+		List<String> names = with(json).getList("items.name");
+		
+		System.out.println("-----------------------------------------------");
+		System.out.println("salePrice values of items whose name ends with ed:\n "+ names);
+		System.out.println("-----------------------------------------------");
+	}
+	
+	
+		//
 		@Test
-		public void test0012(){	
-			ArrayList<String> salePrice =
-					given()
+		public void test0014(){	
+
+				Response response =given()
 					.queryParam("query", "ipod")
 					.queryParam("apiKey", APIKEY)
 					.queryParam("format", "json")
 					.when()
-					.get("/search")
-					.then()
-					.extract()
-					.path("items.findAll{it.name==~/.*ed/}.salePrice");
-					
+					.get("/search");
+			//We need static import of the with method import static io.restassured.path.json.JsonPath.*;
+			
+				response
+				.then()
+				.body("numItems", equalTo(12));
+			
+			//Using JsonPath
+				JsonPath.from(response.asString()).getList("");
+				
 			System.out.println("-----------------------------------------------");
-			System.out.println("salePrice values of items whose name ends with ed:\n "+ salePrice);
+			System.out.println("salePrice values of items whose name ends with ed:\n ");
 			System.out.println("-----------------------------------------------");
 		}
 }

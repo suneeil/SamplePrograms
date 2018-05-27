@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.pratice.java8Examples.Person"/>
-<fullyQualifiedTypeName name="com.pratice.java8Examples.Human"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
-<fullyQualifiedTypeName name="java.lang.Math"/>
-<fullyQualifiedTypeName name="javax.print.DocFlavor.STRING"/>
-<fullyQualifiedTypeName name="java.util.Map"/>
-<fullyQualifiedTypeName name="java.util.function.Function"/>
-<fullyQualifiedTypeName name="java.util.stream.Collectors"/>
-<fullyQualifiedTypeName name="java.util.Set"/>
 <fullyQualifiedTypeName name="org.openqa.selenium.support.ui.WebDriverWait"/>
 <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
 <fullyQualifiedTypeName name="org.openqa.selenium.support.ui.ExpectedConditions"/>
@@ -20,7 +11,6 @@
 <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
 <fullyQualifiedTypeName name="arraysUtilClass.ArraysAsList"/>
 <fullyQualifiedTypeName name="java.util.HashSet"/>
-<fullyQualifiedTypeName name="java.lang.Float"/>
 <fullyQualifiedTypeName name="java.util.Iterator"/>
 <fullyQualifiedTypeName name="java.util.Collections"/>
 <fullyQualifiedTypeName name="java.util.ListIterator"/>
@@ -33,7 +23,6 @@
 <fullyQualifiedTypeName name="sample1"/>
 <fullyQualifiedTypeName name="Sample1"/>
 <fullyQualifiedTypeName name="java.lang.invoke.Stable"/>
-<fullyQualifiedTypeName name="java.util.HashMap"/>
 <fullyQualifiedTypeName name="groovy.json.JsonSlurper"/>
 <fullyQualifiedTypeName name="groovy.json.JsonOutput"/>
 <fullyQualifiedTypeName name="groovy.json.JsonBuilder"/>
@@ -51,13 +40,24 @@
 <fullyQualifiedTypeName name="oopsBasics.ex1.AudiCar"/>
 <fullyQualifiedTypeName name="oopsBasics.ex1.Engine"/>
 <fullyQualifiedTypeName name="org.hamcrest.Matchers"/>
-<fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="tutorial.studentsApp.CreateStudent.pojoClasses.StudentPOJO"/>
 <fullyQualifiedTypeName name="io.restassured.http.ContentType"/>
 <fullyQualifiedTypeName name="io.restassured.response.Response"/>
 <fullyQualifiedTypeName name="tutorial.studentsApp.base.TestBase"/>
 <fullyQualifiedTypeName name="org.testng.annotations.BeforeClass"/>
 <fullyQualifiedTypeName name="io.restassured.RestAssured"/>
+<fullyQualifiedTypeName name="java.lang.Boolean"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.lang.Float"/>
 <fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+<fullyQualifiedTypeName name="io.restassured.path.json.JsonPath"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="org.testng.Assert"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.math.BigDecimal"/>
+<fullyQualifiedTypeName name="io.restassured.path.json.config.JsonPathConfig"/>
+<fullyQualifiedTypeName name="java.util.UUID"/>
+<fullyQualifiedTypeName name="java.awt.print.Book"/>
+<fullyQualifiedTypeName name="io.restassured.path.json.exception.JsonPathException"/>
 </qualifiedTypeNameHistroy>

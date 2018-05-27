@@ -1,0 +1,11 @@
+package tutorial.compareJSONs;
+
+public class CompareJSONTest {
+
+	@Test
+	public void test001(){
+		
+	}
+	
+	
+}

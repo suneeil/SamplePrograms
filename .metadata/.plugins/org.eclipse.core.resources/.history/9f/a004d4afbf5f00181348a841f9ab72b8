@@ -1,0 +1,71 @@
+package walmart.jsonPath.examples;
+
+import io.restassured.RestAssured;
+import org.testng.annotations.BeforeClass;
+import static io.restassured.path.xml.XmlPath.*;
+import static io.restassured.RestAssured.given;
+
+public class ExtractXMLResponse {
+	static final String APIKEY = "6amstmtpeqw4yrbh4j6zrf26";
+
+	@BeforeClass
+	public static void init(){
+		RestAssured.baseURI = "http://api.walmartlabs.com";
+		RestAssured.basePath = "/v1";
+	}
+
+	//Extract numItems
+	//@Test
+	public void test001(){
+		int numItems =	given()
+				.queryParam("query", "ipod")
+				.queryParam("apiKey", APIKEY)
+				.queryParam("format", "xml")
+				.when()
+				.get("/search")
+				.then()
+				.extract()
+				.path("searchresponse.numItems");
+
+		System.out.println("-----------------------------------------------");
+		System.out.println("The total number of Items are: "+ numItems);
+		System.out.println("-----------------------------------------------");
+	}
+
+
+	//Extract first product Name by providing the list index
+	//@Test
+	public void test002(){
+		String productName =	given()
+				.queryParam("query", "ipod")
+				.queryParam("apiKey", APIKEY)
+				.queryParam("format", "xml")
+				.when()
+				.get("/search")
+				.then()
+				.extract()
+				.path("searchresponse.items.item[0].name");
+
+		System.out.println("-----------------------------------------------");
+		System.out.println("The product name is : "+ productName);
+		System.out.println("-----------------------------------------------");
+	}
+	
+	//Get the gift options for the firstproduct
+		//@Test
+		public void test003(){
+			String xml =	given()
+					.queryParam("query", "ipod")
+					.queryParam("apiKey", APIKEY)
+					.queryParam("format", "xml")
+					.when()
+					.get("/search")
+					.asString();
+			
+			//We need static import of the with method import static io.restassured.path.xml.XmlPath.*;
+			String giftOptions = with(xml).getString("searchresponse.items.item[0].giftOptions");
+			System.out.println("-----------------------------------------------");
+			System.out.println("The gift options under first product is : "+ giftOptions); // o/p: falsefalsefalse
+			System.out.println("-----------------------------------------------");
+		}
+}

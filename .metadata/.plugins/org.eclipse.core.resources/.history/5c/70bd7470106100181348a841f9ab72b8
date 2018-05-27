@@ -1,0 +1,13 @@
+package tutorial.compareJSONs;
+
+import org.testng.annotations.Test;
+
+public class CompareJSONTest {
+
+	@Test
+	public void test001(){
+		
+	}
+	
+	
+}
