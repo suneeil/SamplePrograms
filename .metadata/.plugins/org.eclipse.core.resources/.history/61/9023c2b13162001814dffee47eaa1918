@@ -12,14 +12,9 @@ public class UploadFileEx {
 	
 	@Test
 	public void uploadFileExample(){
-		
-		String apiKEY = "e4ee5076b3274de7aa0c92c8c55888025287677e";
 		File inputFile = new File(System.getProperty("user.dir")+"/src/test/java/tutorial/uploadFiles/SourceGIF.gif");
 		System.out.println(inputFile.length());
 		
-		given()
-			.when();
-			
 		
 	}
 	
