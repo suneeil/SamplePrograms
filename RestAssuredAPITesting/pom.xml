@@ -71,6 +71,13 @@
 			<scope>test</scope>
 		</dependency>
 
+		<!-- The commons-io is mainly used for WriterOutputStream for restassured Filters -->
+		<!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
+		<dependency>
+			<groupId>commons-io</groupId>
+			<artifactId>commons-io</artifactId>
+			<version>2.6</version>
+		</dependency>
 
 
 	</dependencies>

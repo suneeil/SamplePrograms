@@ -1,8 +1,0 @@
-package walmart.jsonPath.examples;
-
-
-//We need to statically import  import static org.hamcrest.Matchers.*;
-import static org.hamcrest.Matchers.*;
-public class HamcrestMatcherExamples {
-
-}

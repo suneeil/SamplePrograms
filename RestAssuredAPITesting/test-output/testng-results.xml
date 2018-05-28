@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="6457" started-at="2018-05-27T09:04:50Z" finished-at="2018-05-27T09:04:57Z">
+  <suite name="Default suite" duration-ms="42" started-at="2018-05-28T04:30:10Z" finished-at="2018-05-28T04:30:10Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="6457" started-at="2018-05-27T09:04:50Z" finished-at="2018-05-27T09:04:57Z">
-      <class name="tutorial.responseSpecifications.ResponseSpecificationEx">
-        <test-method status="PASS" signature="init()[pri:0, instance:tutorial.responseSpecifications.ResponseSpecificationEx@546a03af]" name="init" is-config="true" duration-ms="1222" started-at="2018-05-27T14:34:50Z" finished-at="2018-05-27T14:34:52Z">
+    <test name="Default test" duration-ms="42" started-at="2018-05-28T04:30:10Z" finished-at="2018-05-28T04:30:10Z">
+      <class name="tutorial.uploadFiles.UploadFileEx">
+        <test-method status="PASS" signature="uploadFileExample()[pri:0, instance:tutorial.uploadFiles.UploadFileEx@34340fab]" name="uploadFileExample" duration-ms="21" started-at="2018-05-28T10:00:10Z" finished-at="2018-05-28T10:00:10Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- init -->
-        <test-method status="PASS" signature="test001()[pri:0, instance:tutorial.responseSpecifications.ResponseSpecificationEx@546a03af]" name="test001" duration-ms="3698" started-at="2018-05-27T14:34:52Z" finished-at="2018-05-27T14:34:55Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test001 -->
-        <test-method status="PASS" signature="test002()[pri:0, instance:tutorial.responseSpecifications.ResponseSpecificationEx@546a03af]" name="test002" duration-ms="1512" started-at="2018-05-27T14:34:55Z" finished-at="2018-05-27T14:34:57Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test002 -->
-      </class> <!-- tutorial.responseSpecifications.ResponseSpecificationEx -->
+        </test-method> <!-- uploadFileExample -->
+      </class> <!-- tutorial.uploadFiles.UploadFileEx -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
