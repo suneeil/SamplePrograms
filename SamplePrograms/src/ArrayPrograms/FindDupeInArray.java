@@ -1,34 +1,50 @@
 package ArrayPrograms;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Iterator;
+import java.util.*;
 import java.util.Map.Entry;
-import java.util.Set;
+import java.util.stream.Collectors;
+import java.util.stream.IntStream;
+import java.util.stream.Stream;
 
 public class FindDupeInArray {
 
 	public static void main(String[] args) {
-		Integer[] arr = {1,1,2,3,2,3};
-		int[] arr1 = {2,3,1,5,6,6,1,2,2,4,6,7};
-		//findDupe(arr);
-		dupe_Set(arr);
+		int[] arr = {1,1,2,3,2,3,3};
+		Integer[] arr1 = {2,3,1,5,6,6,1,2,2,4,6,7};
+		findDupe(arr);
+		dupe_Set(arr1);
+
 	}
 
-	public static void findDupe(Integer[] arr){
-		HashMap<Integer, Integer> map = new HashMap<Integer, Integer>();
+	public static void findDupe(int[] arr){
+		Map<Integer, Integer> map = new HashMap<Integer, Integer>();
 
-		for(Integer n : arr){
+		for(int n : arr){
 			if(map.containsKey(n)){
 				map.put(n, map.get(n)+1);
 			}else
 				map.put(n,1);
 		}
-		System.out.println(map);
+		System.out.println("Map: " + map);
 
-		Set<Entry<Integer, Integer>> entrySet = map.entrySet();
+		map.entrySet().iterator().forEachRemaining(entry -> System.out.println(entry.getKey() + " : " + entry.getValue()) );
+
+
+
+
+	/*	integers.stream().filter(i -> Collections.frequency(integers, i) > 1).collect(Collectors.toSet()).forEach(System.out::println);
+
+
+		Arrays.asList(arr).forEach(i -> {
+			if(map.containsKey(i))
+				map.put(i, map.get(i)+1);
+			else
+				map.put(i, 1);
+
+		});*/
+
+
+		/*Set<Entry<Integer, Integer>> entrySet = map.entrySet();
 		Iterator<Entry<Integer,Integer>> itr = entrySet.iterator();
 		Entry<Integer,Integer> entry;
 		while(itr.hasNext()){
@@ -36,7 +52,7 @@ public class FindDupeInArray {
 			if(entry.getValue()>1){
 				System.out.println(entry.getKey()+": "+entry.getValue() );
 			}
-		}
+		}*/
 
 	}
 
@@ -44,7 +60,7 @@ public class FindDupeInArray {
 		ArrayList<Integer> al = new ArrayList<>(Arrays.asList(arr));
 		HashSet<Integer> set = new HashSet<>(Arrays.asList(arr));
 		al.removeAll(set); 
-		System.out.println(set);
+		System.out.println("Using Set: " + set);
 	}
 	
 }

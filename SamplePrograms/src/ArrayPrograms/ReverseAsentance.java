@@ -1,6 +1,5 @@
 package ArrayPrograms;
 
-import java.util.Arrays;
 
 public class ReverseAsentance {
 

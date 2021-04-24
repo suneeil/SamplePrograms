@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename local variable &apos;ele&apos; in &apos;com.selenium.Webdriver.ClickEachLink.main(...)&apos; to &apos;aTag&apos;&#x0D;&#x0A;- Original project: &apos;Webdriver&apos;&#x0D;&#x0A;- Original element: &apos;com.selenium.Webdriver.ClickEachLink.main(String[]).ele&apos;&#x0D;&#x0A;- Renamed element: &apos;ele&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;ele&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src\/test\/java&lt;com.selenium.Webdriver{ClickEachLink.java[ClickEachLink~main~\[QString;@ele!844!900!861!863!QList\&lt;QWebElement;&gt;;!0!false" name="aTag" references="true" stamp="1491767682772" version="1.0"/>
-</session>

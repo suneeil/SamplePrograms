@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename method &apos;recursion.Factorial.fact(...)&apos; to &apos;recursiveFact&apos;&#x0D;&#x0A;- Original project: &apos;SamplePrograms&apos;&#x0D;&#x0A;- Original element: &apos;recursion.Factorial.fact(...)&apos;&#x0D;&#x0A;- Renamed element: &apos;recursion.Factorial.recursiveFact(...)&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;fact&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;recursion{Factorial.java[Factorial~fact~I" name="recursiveFact" references="true" stamp="1484620048313" version="1.0"/>
-</session>

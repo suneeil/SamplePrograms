@@ -2,15 +2,20 @@ package ArrayPrograms;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
+import java.util.stream.Collectors;
+import java.util.stream.IntStream;
 
 import arraysUtilClass.ArraysAsList;
 
 public class FindLargestAndSmallest {
 
 	public static void main(String[] args) {
-		int[] arr = {-1,-2,-20,-30,-100,-99};
+		int[] arr = {-10,-2,-20,-30,-100,-99};
 		findLS(arr);
 		findLS2(arr);
+		findLS3(arr);
 	}
 
 	
@@ -43,6 +48,17 @@ public class FindLargestAndSmallest {
 		System.out.println("Largest: "+arr[arr.length-1]);
 		System.out.println("Smallest: "+arr[0]);
 		
+	}
+
+	public static void findLS3(int[] arr) {
+		System.out.println("----------------------------------------");
+		ArrayList<Integer> collect = Arrays.stream(arr).boxed().collect(Collectors.toCollection(ArrayList::new));
+
+		Integer max = Collections.max(collect);
+		Integer min = Collections.min(collect);
+		System.out.println("Largest: " + max);
+		System.out.println("Smallest: " + min);
+
 	}
 	
 	

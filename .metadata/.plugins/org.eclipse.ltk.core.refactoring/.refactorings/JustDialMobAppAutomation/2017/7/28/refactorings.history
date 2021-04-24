@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy 3 elements to &apos;hybrid&apos;&#x0D;&#x0A;- Original project: &apos;JustDialMobAppAutomation&apos;&#x0D;&#x0A;- Destination element: &apos;hybrid&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     test.xml&#x0D;&#x0A;     regression.xml&#x0D;&#x0A;     smoke.xml" description="Copy files" destination="=hybrid" element1="test.xml" element2="regression.xml" element3="smoke.xml" files="3" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1499915474060" units="0" version="1.0"/>
-</session>

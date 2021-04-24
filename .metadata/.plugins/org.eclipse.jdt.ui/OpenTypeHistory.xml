@@ -1,6 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy>
-<typeInfo handle="=MOCKITO/C:\/Users\/Sunil Rao\/.m2\/repository\/org\/mockito\/mockito-all\/1.10.19\/mockito-all-1.10.19.jar&lt;org.mockito(Mockito.class[Mockito" modifiers="33" timestamp="1522463270897"/>
-<typeInfo handle="=MOCKITO/C:\/Users\/Sunil Rao\/.m2\/repository\/org\/mockito\/mockito-all\/1.10.19\/mockito-all-1.10.19.jar&lt;org.mockito(BDDMockito.class[BDDMockito" modifiers="33" timestamp="1522463270897"/>
-<typeInfo handle="=RestAssuredAPITesting/C:\/Users\/Sunil Rao\/.m2\/repository\/org\/hamcrest\/hamcrest-library\/1.3\/hamcrest-library-1.3.jar&lt;org.hamcrest(Matchers.class[Matchers" modifiers="33" timestamp="1490961747888"/>
-</typeInfoHistroy>
+<typeInfoHistroy/>

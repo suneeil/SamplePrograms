@@ -1,8 +1,0 @@
-1497154867067	Delete element
-1497164732406	Rename local variable 'rows'
-1497164780901	Rename local variable 'cols'
-1497403751578	Rename field 'testcaseName'
-1497405451414	Rename method 'testStartRowNum'
-1497405489356	Rename method 'getTotTestRows'
-1497405509001	Rename method 'getTotTestColumns'
-1497406274154	Rename method 'printData'

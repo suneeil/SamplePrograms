@@ -2,6 +2,7 @@ package cursors_enumeration_iterator_listiterator;
 
 import java.util.ArrayList;
 import java.util.Iterator;
+import java.util.stream.IntStream;
 
 public class IteratorEx {
 
@@ -21,6 +22,13 @@ public class IteratorEx {
 		}
 		System.out.println();
 		System.out.println(al); //Here Even numbers will print
+
+
+		ArrayList<Integer> al2 = new ArrayList<Integer>();
+		IntStream.rangeClosed(1, 10).forEach(n -> al2.add(n));
+
+		System.out.println(al2);
+
 	}
 
 }

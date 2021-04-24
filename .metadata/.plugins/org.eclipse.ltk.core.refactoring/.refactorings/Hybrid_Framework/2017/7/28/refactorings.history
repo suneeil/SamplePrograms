@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;Hybrid_Framework/SuiteA.xml&apos; to &apos;SessionSuite.xml&apos;" description="Rename resource &apos;SuiteA.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="SuiteA.xml" name="SessionSuite.xml" stamp="1499990793091" updateReferences="true"/>
-</session>

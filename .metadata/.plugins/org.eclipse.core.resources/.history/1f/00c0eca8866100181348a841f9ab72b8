@@ -1,7 +1,0 @@
-package tutorial.requestSpecifications;
-
-public class RequestSpecificationExamples {
-
-	//Using Request Specification we can minimize repatative code 
-	
-}
