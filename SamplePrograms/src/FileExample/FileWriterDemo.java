@@ -4,7 +4,8 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 /*  FileWriter writes to a file by creating a file if is does not exist or writes to a existing file
-        >>>> FileWriter is base for writing in this programmer has to manually add line separator
+        >>>> FileWriter is a lowest writing
+        >>>> in this programmer has to manually add line separator
         >>>> And in some system \n is not considered as Line separator
         FileWriter constructors
         FileWriter f = new FileWriter(String fName); <-- Overrides file

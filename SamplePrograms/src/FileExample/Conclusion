@@ -1,0 +1,19 @@
+Conclusion 1:
+1. We have two readers FileReader and BufferedReader
+    where ever reading is required we should use BufferReade, since it is the most advanced
+    BufferedReader is used to read character data from a file
+2. There three writer FileWriter, BufferedWriter and PrintWriter
+    where ever writing is required we should use PrintWriter
+
+Conclusion 2:
+In any programming world there are two type
+     Character Data                          |                      Binary data
+     (text data)                             |
+                                             |            e.g. Video file, audio file, pdf file, images,...
+                                             |
+Note-1: If we want to handle character       | Note-2: If we want to handle binary data then we should go for streams
+data we should use "Readers" and "Writer"    | Note-3: If you want to read binary data from a file then we should use File InputStreams
+                                             | Note-4: If we want to write binary data to a file we should use File OutputStream
+
+
+
