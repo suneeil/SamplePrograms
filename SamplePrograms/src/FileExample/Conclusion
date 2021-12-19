@@ -16,4 +16,14 @@ data we should use "Readers" and "Writer"    | Note-3: If you want to read binar
                                              | Note-4: If we want to write binary data to a file we should use File OutputStream
 
 
-
+                                                        O     B     J     E     C     T
+                                                        /                    \
+                                                       / \                    \
+                                  (Abstract class)   W R I T E R            R E A D E R (Abstract class)
+                                                     /  \       \                        /     \
+                                                    /    \       \                      /       \
+                                            OutputStream  \       \                  Reader      \
+                                                  /        \       \                 /            \
+                                                 /   BufferedWriter \         InputStreamReader    \
+                                           FileWriter                \            /                 \
+                                                               PrintWriter    FileReader       BufferedReader
