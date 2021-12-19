@@ -1,6 +1,7 @@
 package stringProg;
 
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.Scanner;
 
 public class Anagram {
@@ -13,6 +14,7 @@ public class Anagram {
 	        scan.close();
 	        boolean ret = isAnagram(a, b);
 	        System.out.println("Result: "+ret);
+
 	        System.out.println( (ret) ? "Anagrams" : "Not Anagrams" );
 	}
 

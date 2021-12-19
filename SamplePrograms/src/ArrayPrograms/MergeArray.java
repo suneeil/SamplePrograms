@@ -2,6 +2,7 @@ package ArrayPrograms;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.List;
 
 public class MergeArray {
@@ -45,6 +46,7 @@ public class MergeArray {
         li.addAll(integers1);
         li.addAll(integers2);
         System.out.println(li);
+
 
     }
 

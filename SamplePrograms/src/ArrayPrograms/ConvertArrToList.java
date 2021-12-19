@@ -1,6 +1,7 @@
 package ArrayPrograms;
 
 import java.util.Arrays;
+import java.util.Collection;
 import java.util.List;
 import java.util.ListIterator;
 
@@ -16,7 +17,7 @@ public class ConvertArrToList {
 		System.out.println("List: "+ li);
 		ListIterator<Integer> itr = li.listIterator();
 		System.out.println(itr.hasNext());
-		
+
 	}
 
 }
