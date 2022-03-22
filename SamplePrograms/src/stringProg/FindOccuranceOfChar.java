@@ -1,4 +1,4 @@
-package stringProg;
+package SamplePrograms.src.stringProg;
 
 import java.nio.CharBuffer;
 import java.util.*;

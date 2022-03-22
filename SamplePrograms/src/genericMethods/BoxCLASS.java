@@ -1,4 +1,4 @@
-package genericMethods;
+package SamplePrograms.src.genericMethods;
 
 public class BoxCLASS<T>  {
 	

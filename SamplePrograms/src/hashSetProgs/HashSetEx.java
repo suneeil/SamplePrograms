@@ -1,4 +1,4 @@
-package hashSetProgs;
+package SamplePrograms.src.hashSetProgs;
 
 import java.util.Collections;
 import java.util.HashSet;

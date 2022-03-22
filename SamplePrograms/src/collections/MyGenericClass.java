@@ -1,4 +1,4 @@
-package collections;
+package SamplePrograms.src.collections;
 
 public class MyGenericClass<T> {
 

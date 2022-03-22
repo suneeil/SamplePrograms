@@ -1,4 +1,4 @@
-package tryCatch;
+package SamplePrograms.src.tryCatch;
 
 public class newTryFeatures {
     /*  from Java 1.7

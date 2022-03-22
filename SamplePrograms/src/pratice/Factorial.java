@@ -1,4 +1,4 @@
-package pratice;
+package SamplePrograms.src.pratice;
 
 public class Factorial {
 

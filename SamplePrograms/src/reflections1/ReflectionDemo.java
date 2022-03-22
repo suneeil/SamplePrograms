@@ -1,4 +1,4 @@
-package reflections1;
+package SamplePrograms.src.reflections1;
 
 import java.lang.reflect.Method;
 import java.util.ArrayList;

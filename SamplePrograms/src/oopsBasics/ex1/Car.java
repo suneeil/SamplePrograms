@@ -1,4 +1,4 @@
-package oopsBasics.ex1;
+package SamplePrograms.src.oopsBasics.ex1;
 
 public class Car {
 	String name;

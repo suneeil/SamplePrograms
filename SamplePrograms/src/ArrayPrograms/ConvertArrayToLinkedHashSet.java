@@ -1,6 +1,6 @@
-package ArrayPrograms;
+package SamplePrograms.src.ArrayPrograms;
 
-import arraysUtilClass.ArraysAsList;
+import SamplePrograms.src.ArrayPrograms.arraysUtilClass.ArraysAsList;
 
 import java.util.*;
 import java.util.stream.Collectors;

@@ -1,6 +1,7 @@
-package reflections1.newpack;
+package SamplePrograms.src.reflections1.newpack;
 
-import reflections1.Employee;
+import SamplePrograms.src.reflections1.Employee;
+
 
 public class ReflectionDemo {
 

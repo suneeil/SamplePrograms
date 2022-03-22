@@ -1,4 +1,4 @@
-package collections;
+package SamplePrograms.src.collections;
 
 import java.util.LinkedList;
 import java.util.ListIterator;

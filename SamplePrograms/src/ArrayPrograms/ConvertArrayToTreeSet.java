@@ -1,4 +1,4 @@
-package ArrayPrograms;
+package SamplePrograms.src.ArrayPrograms;
 
 import java.util.Arrays;
 import java.util.TreeSet;

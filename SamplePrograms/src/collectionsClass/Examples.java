@@ -1,4 +1,4 @@
-package collectionsClass;
+package SamplePrograms.src.collectionsClass;
 
 import java.util.ArrayList;
 import java.util.Collections;

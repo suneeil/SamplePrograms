@@ -1,4 +1,4 @@
-package cursors_enumeration_iterator_listiterator;
+package SamplePrograms.src.cursors_enumeration_iterator_listiterator;
 
 import java.util.ArrayList;
 import java.util.Iterator;

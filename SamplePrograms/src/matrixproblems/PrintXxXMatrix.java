@@ -1,4 +1,4 @@
-package matrixproblems;
+package SamplePrograms.src.matrixproblems;
 
 import java.util.Random;
 

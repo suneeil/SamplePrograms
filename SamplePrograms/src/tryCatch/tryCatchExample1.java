@@ -1,4 +1,4 @@
-package tryCatch;
+package SamplePrograms.src.tryCatch;
 
 public class tryCatchExample1 {
     /*  All possible combiation of try - catch - finally

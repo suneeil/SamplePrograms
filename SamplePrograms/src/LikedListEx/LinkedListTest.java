@@ -1,4 +1,4 @@
-package LikedListEx;
+package SamplePrograms.src.LikedListEx;
 
 import java.util.LinkedList;
 import java.util.List;

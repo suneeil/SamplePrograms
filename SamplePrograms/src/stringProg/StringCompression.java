@@ -1,4 +1,4 @@
-package stringProg;
+package SamplePrograms.src.stringProg;
 public class StringCompression {
 	
 	public String compression(String str){

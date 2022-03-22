@@ -1,4 +1,4 @@
-package arraysUtilClass;
+package SamplePrograms.src.arraysUtilClass;
 
 import java.util.Arrays;
 import java.util.List;

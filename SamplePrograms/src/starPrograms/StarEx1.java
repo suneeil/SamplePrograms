@@ -1,4 +1,4 @@
-package starPrograms;
+package SamplePrograms.src.starPrograms;
 
 public class StarEx1 {
 

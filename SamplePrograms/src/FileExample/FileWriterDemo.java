@@ -1,4 +1,4 @@
-package FileExample;
+package SamplePrograms.src.FileExample;
 
 import java.io.File;
 import java.io.FileWriter;

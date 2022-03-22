@@ -1,4 +1,4 @@
-package recursion;
+package SamplePrograms.src.recursion;
 
 public class GCDRecur {
 

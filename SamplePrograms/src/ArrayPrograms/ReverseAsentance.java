@@ -1,4 +1,4 @@
-package ArrayPrograms;
+package SamplePrograms.src.ArrayPrograms;
 
 
 public class ReverseAsentance {

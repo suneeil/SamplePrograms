@@ -1,4 +1,4 @@
-package stringProg;
+package SamplePrograms.src.stringProg;
 
 public class LexoGraphEx {
 

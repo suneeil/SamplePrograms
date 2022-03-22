@@ -1,4 +1,4 @@
-package reflections1;
+package SamplePrograms.src.reflections1;
 
 public class Employee extends Human{
 	

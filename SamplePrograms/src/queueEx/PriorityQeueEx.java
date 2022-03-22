@@ -1,4 +1,4 @@
-package queueEx;
+package SamplePrograms.src.queueEx;
 
 import java.util.ArrayList;
 import java.util.Iterator;

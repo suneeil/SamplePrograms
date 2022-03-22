@@ -1,4 +1,4 @@
-package primitiveDataTypeWrapper;
+package SamplePrograms.src.primitiveDataTypeWrapper;
 
 public class Examples {
 

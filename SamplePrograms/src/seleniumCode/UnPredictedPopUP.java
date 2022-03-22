@@ -1,4 +1,4 @@
-package seleniumCode;
+package SamplePrograms.src.seleniumCode;
 
 public class UnPredictedPopUP {
 

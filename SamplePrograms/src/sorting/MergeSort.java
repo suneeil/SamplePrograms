@@ -1,4 +1,4 @@
-package sorting;
+package SamplePrograms.src.sorting;
 
 public class MergeSort {
 

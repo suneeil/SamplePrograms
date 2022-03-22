@@ -1,4 +1,4 @@
-package collections;
+package SamplePrograms.src.collections;
 
 import java.math.BigInteger;
 import java.util.ArrayList;

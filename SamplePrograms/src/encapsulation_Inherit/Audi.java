@@ -1,4 +1,4 @@
-package encapsulation_Inherit;
+package SamplePrograms.src.encapsulation_Inherit;
 
 public class Audi extends Car{
 	

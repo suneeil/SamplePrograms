@@ -1,4 +1,4 @@
-package ArrayPrograms;
+package SamplePrograms.src.ArrayPrograms;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-import arraysUtilClass.ArraysAsList;
+import SamplePrograms.src.arraysUtilClass.ArraysAsList;
 
 public class FindLargestAndSmallest {
 

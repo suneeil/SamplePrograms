@@ -1,4 +1,4 @@
-package setExamples;
+package SamplePrograms.src.setExamples;
 
 import java.util.TreeSet;
 

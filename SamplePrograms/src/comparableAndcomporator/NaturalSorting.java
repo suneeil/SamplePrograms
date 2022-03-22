@@ -1,4 +1,4 @@
-package comparableAndcomporator;
+package SamplePrograms.src.comparableAndcomporator;
 
 import java.util.Comparator;
 

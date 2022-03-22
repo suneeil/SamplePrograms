@@ -1,4 +1,4 @@
-package stringBufferAndBuilder;
+package SamplePrograms.src.stringBufferAndBuilder;
 
 public class StringEx {
 

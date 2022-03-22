@@ -1,4 +1,4 @@
-package hackerrank;
+package SamplePrograms.src.hackerrank;
 
 public class MatrixDiagonalDiff {
 

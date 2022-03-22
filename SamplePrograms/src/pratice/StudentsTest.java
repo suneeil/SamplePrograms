@@ -1,4 +1,4 @@
-package pratice;
+package SamplePrograms.src.pratice;
 
 import java.util.ArrayList;
 import java.util.Arrays;

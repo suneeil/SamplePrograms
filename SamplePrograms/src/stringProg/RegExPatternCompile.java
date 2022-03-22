@@ -1,4 +1,4 @@
-package stringProg;
+package SamplePrograms.src.stringProg;
 
 import java.util.Scanner;
 import java.util.regex.Pattern;

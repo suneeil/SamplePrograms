@@ -1,4 +1,4 @@
-package pratice;
+package SamplePrograms.src.pratice;
 
 import java.math.BigInteger;
 import java.util.Arrays;
